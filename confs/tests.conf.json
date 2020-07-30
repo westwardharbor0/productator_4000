@@ -1,0 +1,12 @@
+{
+  "offers_address": "https://applifting-python-excercise-ms.herokuapp.com/api/v1",
+  "offers_token": "4b73f865-c7d4-4910-bdc2-697a3127aeac",
+
+  "refresh_after": 1,
+  "database": {
+    "host": "localhost",
+    "user": "root",
+    "password": "productator",
+    "db": "productator"
+  }
+}

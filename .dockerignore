@@ -1,0 +1,7 @@
+README.md
+Makefile
+.dockerignore
+dockerfiles
+venv
+.idea
+docker-compose.yaml
